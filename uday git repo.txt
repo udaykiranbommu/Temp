@@ -1,0 +1,2 @@
+Machine learning (ML) is a branch of artificial intelligence (AI) that allows computers to learn from training data and improve over time.
+ ML algorithms can identify patterns in data and learn from them to make predictions. 
